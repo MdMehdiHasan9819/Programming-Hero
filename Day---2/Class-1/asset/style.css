@@ -39,8 +39,6 @@
     text-transform: none;
     padding: 50px;
     box-shadow: 5px 5px 5px 5px rgba(0, 0, 0, 0.2);
-    width: 33%;
-  
 }
 
 #div3{
@@ -49,7 +47,9 @@
     margin: 10px;
     padding: 50px;
     box-shadow: 5px 5px 5px 5px rgba(0, 0, 0, 0.2);
-    width: 33%;
-    float: right;
-   
+}
+
+.div-4,li{
+    color: crimson;
+    text-align: center;
 }
